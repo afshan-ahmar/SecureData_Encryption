@@ -84,4 +84,4 @@ elif option == "🔓 Decrypt":
 
 # ---------- Footer ----------
 st.markdown("---")
-st.markdown("<p style='text-align: center; font-size: 14px;'>🌟 Built with love using Streamlit & Cryptography 🌟</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-size: 14px;'>🌟 Built with love from AFSHAN by using Streamlit & Cryptography 🌟</p>", unsafe_allow_html=True)
